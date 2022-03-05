@@ -48,7 +48,7 @@ Two Letter Words: Common
 'pi': PEU
 'ok': O*EBG
 'so': SO
-'sh': xxx sh
+# 'sh': xxx sh
 'ta': TA/A*U
 'ti': T*/SKWREU
 'to': TO
