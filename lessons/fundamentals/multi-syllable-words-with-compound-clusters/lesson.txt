@@ -11,7 +11,7 @@ Multi-syllable words with compound clusters
 'possession': PEFGS
 'passion': PAGS
 'difference': TKEUFRPBS
-'nations': TPHA*EUGSZ
+'nations': TPH-GS/-S
 'fashion': TPAGS
 'portion': PORGS
 'education': TKAEUBGS

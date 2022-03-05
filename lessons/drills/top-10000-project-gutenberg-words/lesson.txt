@@ -1261,7 +1261,7 @@ Top 10000 Project Gutenberg words
 'false': TPALS
 'tall': TAUL
 'gate': TKPWAET
-'nations': TPHA*EUGSZ
+'nations': TPH-GS/-S
 'created': KRAOETD
 'refused': RAO*UFD
 'quietly': KWAO*EULT
